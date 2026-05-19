@@ -1,2 +1,17 @@
-# ap-csa-2026-frqs
-My solutions and explanation for the 2026 AP computer science A free response questions
+#AP Computer Science A 2026 FRQ Solutions My solutions to the 2026 AP CS A Free Response Questions, completed as a post-exam project at FDR High School.
+
+## Questions
+
+Question 1: [topic]
+
+Question 2: [topic]
+
+Question 3: [topic]
+
+Question 4:
+
+## Reflection
+
+[topic]
+
+Working through these after the exam helped me…
