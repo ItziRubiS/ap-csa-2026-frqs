@@ -7,3 +7,13 @@ public Account(String requestedName){
   }
   return newUser;
 }
+
+public String getShortenedName(){
+  String newUser= newUser;
+    while (newUser.indexOf("-")!=-1{
+        int loc= newUser.indexOf("-");
+       newUser = newUser.substring(0, loc - 1) + newUser.substring(loc + 1);
+    }
+  return newUser;
+  }
+
